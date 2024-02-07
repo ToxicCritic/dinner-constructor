@@ -6,6 +6,7 @@ public class DinnerConstructor {
 
     public DinnerConstructor() {
         dishesByType = new HashMap<>();
+        //
     }
 
     public void addDish(String dishType, String dishName) {
